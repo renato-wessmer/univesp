@@ -1,0 +1,1 @@
+# Pensamento Computacional COM100 Turma 006 / Semana 1
