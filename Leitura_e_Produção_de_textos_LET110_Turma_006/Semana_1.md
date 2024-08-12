@@ -23,7 +23,7 @@ Comentário da resposta:	Porque é um conjunto de símbolos dominados por um gru
 
 - [ ] uma forma de opressão.
 
-- [ ] um ato político.
+- [x] um ato político.
 
 - [ ] uma atividade cognitiva, que desenvolve o intelecto.  
 
