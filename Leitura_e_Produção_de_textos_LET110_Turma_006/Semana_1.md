@@ -1,5 +1,3 @@
-# Semana 1 - Atividade Avaliativa
-
 # Pergunta 1  (6 pontos)
 
 A linguagem, elemento que nasce junto com a história da humanidade, é e sempre foi essencial para que as pessoas possam desenvolver relações, permitindo a compreensão entre elas e até liberdade da solidão, uma vez que possibilita a conexão entre as pessoas. 
