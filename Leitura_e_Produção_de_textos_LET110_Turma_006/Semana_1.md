@@ -1,6 +1,6 @@
 # Semana 1 - Atividade Avaliativa
 
-Pergunta 1  (6 pontos )
+Pergunta 1  (6 pontos)
 
 A linguagem, elemento que nasce junto com a história da humanidade, é e sempre foi essencial para que as pessoas possam desenvolver relações, permitindo a compreensão entre elas e até liberdade da solidão, uma vez que possibilita a conexão entre as pessoas. 
 Sobre a linguagem, analise as asserções a seguir e as relações propostas entre elas.
@@ -23,6 +23,27 @@ Analisando as asserções anteriores, conclui-se que:
 - [x] as duas asserções são verdadeiras, e a segunda justifica a primeira.
 
 - [ ] a primeira asserção é verdadeira, e a segunda é falsa.
+
+
+Pergunta 2 (4 pontos)
+
+A leitura contempla importante relação diante das funções históricas e contemporâneas da sociedade. Ao falar da educação, é preciso reconhecer a figura de Paulo Freire como um dos principais educadores, intelectuais e pesquisadores brasileiros dentre os mais citados em todo o mundo por conta de suas obras, como a Pedagogia do Oprimido, obra dedicada à alfabetização e à leitura.
+Com base nas informações apresentadas, identifique se são verdadeiras (V) ou falsas (F) as afirmativas a seguir.
+ 
+(   ) A leitura do mundo e da palavra é, para Paulo Freire, um direito de todos e um recurso para o acesso à cidadania.
+
+(   ) A obra de Paulo Freire é fundamental para a compreensão da função social da leitura na sociedade brasileira.
+
+(   ) A cultura letrada é uma invenção do espírito, pois surge no momento em que a sociedade consegue dizer de si mesma.
+ 
+Assinale a alternativa que apresenta a sequência correta:
+
+- [ ] F - F – V.
+- [ ] F - V - V.
+- [X] V - V - F.
+- [ ] V - F - V.
+- [ ] V - F - F.
+
 
 
 
