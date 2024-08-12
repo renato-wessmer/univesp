@@ -5,8 +5,24 @@ Pergunta 1  (6 pontos )
 A linguagem, elemento que nasce junto com a história da humanidade, é e sempre foi essencial para que as pessoas possam desenvolver relações, permitindo a compreensão entre elas e até liberdade da solidão, uma vez que possibilita a conexão entre as pessoas. 
 Sobre a linguagem, analise as asserções a seguir e as relações propostas entre elas.
 
+I. A linguagem é umas das conquistas humanas que mais favorecem a relação entre os seres, a sociedade e todo o quadro referencial que se concretiza, seja nas relações com objetos seja nas relações entre as pessoas.
+
+PORQUE
+
+II. É por meio da linguagem que se assegura ao indivíduo o lugar de emissor, o estabelecimento da consciência e a posição de poder controlar a própria vida e reagir diante dela, além de permitir que as pessoas estabeleçam vínculos entre elas.
 
 
+Analisando as asserções anteriores, conclui-se que:
+
+- [ ] as duas asserções são verdadeiras, e a segunda não justifica a primeira.
+
+- [ ] as duas asserções são falsas.
+
+- [ ] a primeira asserção é falsa, e a segunda é verdadeira.
+
+- [x] as duas asserções são verdadeiras, e a segunda justifica a primeira.
+
+- [ ] a primeira asserção é verdadeira, e a segunda é falsa.
 
 
 
