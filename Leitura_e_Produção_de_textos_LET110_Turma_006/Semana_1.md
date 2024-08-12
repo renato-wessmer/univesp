@@ -1,5 +1,3 @@
-# Leitura e Produção de textos LET110 Turma 006univesp / Semana 1
-
 # Semana 1 - Quiz da Videoaula 1 - Funções sociais da escrita
 
 #### Na videoaula “Funções sociais da escrita” é afirmado que a escrita surge de forma logográfica. Por quê?
